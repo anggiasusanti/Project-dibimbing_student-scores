@@ -1,5 +1,5 @@
 # Project-dibimbing_student-scores
-Proyek ini menggunakan dua model Machine Learnign untuk memprediksi nilai belajar siswa berdasarkan jumlah jam belajar.
+Proyek ini menggunakan dua model Machine Learnign untuk memprediksi nilai (Scores (y)) belajar siswa berdasarkan jumlah jam belajar (Hours (x)).
 Model yang digunakan adalah Linier Regression dan Random Forest Regression
 
 HASIL EVALUASI MODEL
@@ -18,3 +18,6 @@ karena:
 - MAE dan MSE yang lebih kecil : prediksi lebih dekat dengan nilai sebenarnya.
 - R² yang lebih tinggi : menunjukkan bahwa model Random Forest Regression mampu menjelaskan variasi data dengan lebih baik.
 Regresi linier cocok jika membutuhkan model yang simpel, cepat, dan mudah diinterpretasi. Tetapi, untuk prediksi lebih akurat, terutama jika data mulai kompleks, Random Forest Regression merupakan pilihan yang tepat.
+
+Project ini merupakan tugas mini project dari kelas Digital Skill Fair 38.0: Faculty of Data-AI Machine Learning by Dibimbing.id
+Dibuat oleh Anggia Susanti
