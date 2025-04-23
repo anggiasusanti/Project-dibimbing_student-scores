@@ -1,5 +1,5 @@
 # Project-dibimbing_student-scores
-Proyek ini menggunakan dua model Machine Learnign untuk memprediksi nilai (Scores (y)) belajar siswa berdasarkan jumlah jam belajar (Hours (x)).
+Proyek ini menggunakan dua model Machine Learning untuk memprediksi nilai (Scores (y)) belajar siswa berdasarkan jumlah jam belajar (Hours (x)).
 Model yang digunakan adalah Linier Regression dan Random Forest Regression
 
 HASIL EVALUASI MODEL
